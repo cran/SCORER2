@@ -1,0 +1,15 @@
+4fd7c5a0330f01b017684a9a37a682fe *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+ac1d4f57e5dca917a04bb65a54b68ac9 *R/CreatePssm.R
+5e12896938a9a2f6689c9eb4b53aac16 *R/EstimateProbability.R
+783c222ffcdbd39026d07dc14b931a46 *R/RetrainScorer2.R
+629853490aa198e6d8c9d06e9818fe8a *R/scorer2.R
+b5315b7e1d4eb6648a298b369d6edc0e *data/pssm.RData
+ebb72719a18f272a817c3662218d3cce *data/training.RData
+8dd372533ad4087082f525a12ec7e859 *man/CreatePssm.Rd
+6edb07ed0a1275a6c18a56c157082651 *man/EstimateProbability.Rd
+619ded5f781fc8cbce0eebc1c6590451 *man/RetrainScorer2.Rd
+e6ab9d893fc28fbfb3af30ef0cb07b27 *man/pssm.Rd
+38481eb7ad5bcde17f719d5c20e164d4 *man/scorer-package.Rd
+65753eeb6c0d2727248509d3b7354d82 *man/scorer2.Rd
+8c5dfec12678187fc5caca809abc5695 *man/training.Rd
